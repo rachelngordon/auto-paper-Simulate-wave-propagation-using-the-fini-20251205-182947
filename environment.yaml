@@ -1,0 +1,7 @@
+name: wave-simulation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
